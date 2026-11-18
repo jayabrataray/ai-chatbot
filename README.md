@@ -36,9 +36,11 @@
 
 ## 🖥️ Interface Showcase
 
-| Obsidian Dark Mode | Clean Light Mode |
-| :---: | :---: |
-| <img src="asset/preview-dark.png" alt="AETHER Dark Mode" width="420" /> | <img src="asset/preview-light.png" alt="AETHER Light Mode" width="420" /> |
+<div align="center">
+  <img src="asset/preview-dark.png" alt="AETHER Obsidian Dark Mode" width="85%" />
+  <br />
+  <sub><b>Obsidian Dark Mode</b> — Custom theme system, multi-session sidebar, and glassmorphic starter cards</sub>
+</div>
 
 ---
 
